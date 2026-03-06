@@ -1,0 +1,5 @@
+.env
+ssl/
+.git
+.gitignore
+__pycache__
